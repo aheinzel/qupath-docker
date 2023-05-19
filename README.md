@@ -1,4 +1,4 @@
-#QuPath Docker
+# QuPath Docker
 
 Docker image with QuPath v0.4.3.
 
