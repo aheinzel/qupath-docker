@@ -1,6 +1,6 @@
 # QuPath Docker
 
-Docker image with QuPath v0.4.3.
+Docker image with QuPath v0.5.0.
 
 ## Build image
 ```
