@@ -17,7 +17,6 @@ jobs:
       - name: Build qupath docker image
         uses: docker/build-push-action@v4
         with:
-          context: "{{defaultContext}}:docker"
           push: true
           labels: |
             qupath.target-platform=linux
